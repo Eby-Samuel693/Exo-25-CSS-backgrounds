@@ -1,0 +1,60 @@
+body{
+    background-color: darkred;
+}
+
+.a{
+    border-radius: 10px;
+    width: 480px;
+}
+.b{
+    border-radius: 10px;
+    width: 600px;
+}
+.c{
+    border-radius: 10px;
+    width: 510px;
+}
+
+.d{
+    border-radius: 10px;
+    width: 580px;
+}
+.e{
+    border-radius: 10px;
+    width: 650px;
+}
+
+.f{
+    border-radius: 10px;
+    width: 540px;
+}
+
+.g{
+
+    border-radius: 10px;
+    width: 570px;
+}
+
+.h{
+    border-radius: 10px;
+    width: 390px;
+
+}
+
+.i{
+    border-radius: 10px;
+    width: 300px;
+
+}
+
+.j{
+    border-radius: 10px;
+    width: 480px;
+
+
+}
+div{
+    border-style: solid;
+    border-width: 8px;
+    box-shadow: 8px 6px darkgray;
+}
