@@ -30,7 +30,6 @@ body{
 }
 
 .g{
-
     border-radius: 10px;
     width: 570px;
 }
@@ -38,20 +37,16 @@ body{
 .h{
     border-radius: 10px;
     width: 390px;
-
 }
 
 .i{
     border-radius: 10px;
     width: 300px;
-
 }
 
 .j{
     border-radius: 10px;
     width: 480px;
-
-
 }
 div{
     border-style: solid;
